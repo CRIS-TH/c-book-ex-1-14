@@ -1,0 +1,23 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Temp files
+*~
+*.swp
+
+# hidden files (except gitignore)
+.*
+!.gitignore
